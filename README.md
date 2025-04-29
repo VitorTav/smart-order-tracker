@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # customer-order-flow
 
 
@@ -24,3 +25,6 @@ Python 3.10+
 Design Patterns: Factory Method, Template, Strategy, Facade, Observer
 
 SOLID Principles
+=======
+# smart-order-tracker
+>>>>>>> 86c0cfa4e2b6da670737ded70f011a7f8357eb9d
